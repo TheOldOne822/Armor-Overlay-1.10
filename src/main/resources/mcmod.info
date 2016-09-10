@@ -1,0 +1,16 @@
+[
+{
+  "modid": "armoroverlay",
+  "name": "Armor Overlay",
+  "description": "Extends armor gui.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheOldOne822"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
